@@ -1,2 +1,2 @@
 # Analyzing-VN30-stocks
-##A small project of UEH freshman Nguyen Anh Tuan
+A small project of UEH freshman Nguyen Anh Tuan
